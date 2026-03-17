@@ -118,22 +118,22 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-team/hr-analytics-platform.git
+git clone https://github.com/vnavas1312/explainability16.git
 
 # Navigate to the project directory
-cd hr-analytics-platform
+cd hr-app
 
 # Install dependencies
-pip install -r requirements.txt
+npm install
 ```
 
 ### Running the Application
 
-```bash
-streamlit run app.py
+```
+npm run dev
 ```
 
-The interface will launch in your default web browser at `http://localhost:8501`
+The interface will launch in your default web browser at `http://localhost:5173`
 
 ##  Features
 
